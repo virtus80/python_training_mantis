@@ -6,9 +6,14 @@
     "username": "administrator",
     "password": "root"
   },
+  "ftp":{
+    "host": "localhost",
+    "username": "mantis",
+    "password": "mantis"
+  },
   "db": {
     "host": "localhost",
-    "name": "addressbook",
+    "name": "bugtracker",
     "user": "root",
     "password": ""
   }
